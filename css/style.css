@@ -1,0 +1,43 @@
+body {
+  font-family: sans-serif;
+  color: #50595f;
+  background-color: #fdfeff;
+}
+
+a:link, a:visited {
+  color: #ff817f;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 1.3rem;
+  font-weight: normal;
+}
+
+.container {
+  margin: 32px;
+  margin-left: 35px;
+}
+
+.global-header-container {
+  margin-bottom: 40px;
+}
+.global-header-container .site-title {
+  font-size: 1.4rem;
+}
+.global-header-container .site-title a:link, .global-header-container .site-title a:visited {
+  color: #50595f;
+}
+
+.main-container {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  line-height: 1.65em;
+}
+
+.global-footer-container {
+  margin-top: 40px;
+}
+.global-footer-container .copyright {
+  color: #70777e;
+}
